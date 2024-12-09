@@ -33,9 +33,9 @@ This repository is for the `ASD Early Detection and Behavioral Analysis Project`
 ## Usage
 This repository provides scripts for training, evaluating, and utilizing NLP models for ASD classification and behavior mapping. The following main approaches are included:
 
-1. **RoBERTa-based QCHAT Classification**:
+1. qchat10_screening_support : **RoBERTa-based QCHAT Classification**:
     - Fine-tune the model on QCHAT-10 data to classify toddlers into TD or high-risk ASD.
   
-2. **ASD Behavioral Pattern Identification**:
+2. ASD_treatment_support : **ASD Behavioral Pattern Identification**:
     - Apply BERTopic modeling along with GPT-3.5 Turbo for identifying specific behavioral spectrums such as "Sensory-Communication Nuances."
 

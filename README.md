@@ -17,6 +17,8 @@ This repository is for the `ASD Early Detection and Behavioral Analysis Project`
 - **ASD Classification Workflow**: Uses QCHAT-10 data and advanced deep learning techniques to classify toddlers, emphasizing early identification.
 - **Behavior Identification Workflow**: Utilizes summarization and embeddings to extract clinically relevant behavioral patterns, highlighting both sensory-communication nuances and atypical engagement.
 
+![Workflow Diagram](https://github.com/skwgbobf/ASD_EMR_AI_project/commit/64965003167e21f5244a3ece00a2965875695f0a)
+
 ## Installation
 
 1. Clone the repository:

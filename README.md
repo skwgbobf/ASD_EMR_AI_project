@@ -19,8 +19,7 @@ This repository is for the `ASD Early Detection and Behavioral Analysis Project`
 
 This is the visual workflow for the project:
 
-![Workflow Diagram](https://github.com/skwgbobf/ASD_EMR_AI_project/commit/64965003167e21f5244a3ece00a2965875695f0a](https://github.com/skwgbobf/ASD_EMR_AI_project/blob/main/git_workflow.jpg)
-
+![Workflow Diagram](git_workflow.jpg)
 ## Installation
 
 1. Clone the repository:
